@@ -35,7 +35,7 @@ notice here that COM3 is the port my arduino was connected to, as seen after run
 
 ---
 
-##problems
+## problems
 this is meant to be a minimal quick start guide so, if you have any deeper questions or problems, the following link may provide some help
 
 [CLICK HERE](https://docs.arduino.cc/arduino-cli/getting-started/?_gl=1*1j2csxi*_up*MQ..*_ga*NDA5MzgxMjEzLjE3OTA5MjIxODc.*_ga_NEXN8H46L5*czE3OTA5MjIxODYkbzEkZzEkdDE3OTA5MjIyNzAkajYwJGwwJGg1MDgwMTg4MjM.)
